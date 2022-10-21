@@ -49,6 +49,11 @@ pip install -r requirements.txt
 ### LICENCE
  MIT
 #### Contributors
-* [Andenet Alexander](https://github.com/andyalex234)
+
+<a href = "https://github.com/andyalex234">
+  <img src="https://contrib.rocks/image?repo=andyalex234/logistic-optimization" />
+  Andenet Alexander
+</a>
+
 > any type of contribution is welcomed. [Fork](https://github.com/andyalex234/logistic-optimization/fork), apply your changes and make a [pull request](https://github.com/andyalex234/logistic-optimization/pull).
 
